@@ -10,8 +10,8 @@ Prerequisites:
 * Bundler
 * postgresql
 
-    $ bundle install
-    $ rake db:create db:migrate db:seed
+        $ bundle install
+        $ rake db:create db:migrate db:seed
 
 ## Usage
 
